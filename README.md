@@ -63,6 +63,11 @@ I'm currently pursuing my M.Sc in Computer Science at TU Darmstadt. I'm passiona
 <!-- </details> -->
 
 ---
+### 📊 My Github Stats:
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jay-bodar&" alt="jay-bodar" /></p>
+
+---
 
 ### 📫 Connect with me:
 <p align="center">
