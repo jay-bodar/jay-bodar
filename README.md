@@ -13,10 +13,13 @@ I'm currently pursuing my M.Sc in Computer Science at TU Darmstadt. I'm passiona
   <a href="https://www.coursera.org/account/accomplishments/specialization/FU6HU9D4FG75">
     <img src="./images/certifications//ML certificate Coursera.jpg" width="150" height="150" />
   </a>
+  <a href="https://archive.nptel.ac.in/noc/Ecertificate/?q=NPTEL22CS74S1409007909024777">
+    <img src="./images/certifications//NPTEL.png" width="150" height="150" />
+  </a>
 </p>
 
 - **DeepLearning.AI certified ML engineer – Specialist**
-
+- **NPTEL certified Python Specialist**
 
 
 
