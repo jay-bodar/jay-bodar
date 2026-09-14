@@ -75,7 +75,7 @@ I'm currently pursuing my M.Sc in Computer Science at TU Darmstadt. I'm passiona
 ### 📫 Connect with me:
 <p align="center">
   <a href="https://www.linkedin.com/in/jay-bodar/" target="blank">LinkedIn</a> |
-  <!-- <a href="" target="blank">Portfolio</a> | -->
+  <a href="https://jay-bodar.vercel.app/" target="blank">Portfolio</a> |
   <!-- <a href="" target="blank">Blog</a> | -->
   <a href="https://leetcode.com/u/jay-bodar/" target="blank">LeetCode</a> |
   <a href="mailto:jaybodar1108@gmail.com">Email</a>
